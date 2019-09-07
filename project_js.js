@@ -24,7 +24,7 @@ x2.on("click",function () {
 
 
   $("#sign_up").fadeToggle(3000);
-  $('#pic').fadeOut(3000);
+  // $('#pic').fadeOut(3000);
 })
 
 var x3 = $("h1")
