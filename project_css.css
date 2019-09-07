@@ -1,0 +1,43 @@
+body{
+  background-image: url("https://cdn.hipwallpaper.com/i/60/59/pAkgfw.jpg");
+
+}
+
+
+.jumbotron{
+  background-color: #64c4ed;
+  color:#132743;
+}
+#jum1{
+  background-image: url("https://wallpaper-gallery.net/images/wallpaper-of-black/wallpaper-of-black-10.jpg");
+}
+
+img{
+  width: 400px;
+  height:220px;
+  padding: 5px;
+  border: 3px ridge #132743;
+  margin: 5px;
+}
+#jum{
+  /* background-color: #64e291; */
+  background-image: url("https://wallpaper-gallery.net/images/wallpaper-of-black/wallpaper-of-black-10.jpg");
+  color: white;
+}
+#pic1{
+  color:#f54245;
+}
+#pic{
+  color:black;
+}
+
+
+.nav-link{
+  color: #fcfafa;
+}
+.navbar-brand{
+  color: #fcfafa;
+}
+#ok{
+  background-color: #badfdb;
+}
