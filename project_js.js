@@ -9,7 +9,7 @@ x.addEventListener("mouseout", function(){
 var xx = document.querySelector("#jum")
 
 xx.addEventListener("mouseover",function(){
-  xx.style.color = "orange";
+  xx.style.color = "#ff00bf";
 })
 xx.addEventListener("mouseout",function(){
   xx.style.color = "white"
